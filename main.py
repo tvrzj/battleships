@@ -1,3 +1,9 @@
+#Assistant for playing a game of Battleships 
+#   ___            __       
+#  / _ | ___ __ __/ /_____ _
+# / __ |(_-</ // /  '_/ _ `/
+#/_/ |_/___/\_,_/_/\_\\_,_/ 
+
 import tkinter as tk
 import random
 
